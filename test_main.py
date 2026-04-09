@@ -14,4 +14,4 @@ def test_somar():
     assert response.json() == {"resultado": 30}
 
 def test_multiplicar():
-    assert 2 * 2 == 5
+    assert 2 * 2 == 4
